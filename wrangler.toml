@@ -1,0 +1,6 @@
+name = "fauna-test"
+main = "src/index.ts"
+compatibility_date = "2023-02-13"
+
+[vars]
+FAUNA_SECRET = "<Your Secret>"
